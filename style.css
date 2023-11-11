@@ -1,8 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background: rgb(138,43,226);
-background: linear-gradient(0deg, rgba(138,43,226,1) 0%, rgba(0,0,255,1) 100%);
+    background-color: #0000FF;
 }
 
 h1 {
